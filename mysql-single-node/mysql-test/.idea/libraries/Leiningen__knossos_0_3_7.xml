@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: knossos:0.3.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/knossos/knossos/0.3.7/knossos-0.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

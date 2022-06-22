@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: jepsen:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jepsen/jepsen/0.2.0/jepsen-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
